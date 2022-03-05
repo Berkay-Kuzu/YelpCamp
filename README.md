@@ -10,7 +10,7 @@ Use the package manager [npm](https://www.npmjs.com/get-npm) to install all requ
 npm install
 ```
 
-## Usage
+## Usage :
 
 After install all dependecies, start developing by typing this:
 ```bash
